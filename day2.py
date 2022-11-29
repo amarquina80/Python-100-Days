@@ -1,0 +1,28 @@
+myName = input ("What is your name?:")
+myAge = input ("What is your age?:")
+print ("GEE, that's REALLY OLD")
+replit = input ("Do you like Replit?:")
+print("OF COURSE YOU DO!")
+print()
+print("So, you are")
+print(myName)
+print("and the ripe old of")
+print(myAge)
+print("and clearly think that Replit is")
+print(replit)
+
+
+
+myName = input ("What is your name?:")
+myFavFood = input ("What is your favorite food?:")
+myFavMusic = input ("What is your favorite music?:")
+myAddress = input ("Where do you live?:")
+
+print("You are")
+print(myName)
+print("You are probably hungry for")
+print(myFavFood)
+print("and you are getting your groove on to")
+print(myFavMusic)
+print("Living in the amazing")
+print(myAddress)
